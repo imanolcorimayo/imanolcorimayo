@@ -14,3 +14,6 @@
 - 📫 Podes contactarme en: imanolcorimayo@gmail.com, https://www.linkedin.com/in/imanolcorimayo/
 
 - 😄 Pronombre: Ima!
+
+![image](https://user-images.githubusercontent.com/86976744/146002906-e0041fa1-8a28-44e1-b3c1-4d4749a0697f.png)
+
