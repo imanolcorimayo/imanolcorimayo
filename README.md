@@ -1,6 +1,6 @@
 ### Benvenid@! 👋 Soy Imanol Corimayo - Full Stack Developer
 
-<img src="./banner"/>
+<img style="height: 50%" src="./banner.png"/>
 
 
 - 🔭 Actualmente trabajo en un proyecto de e-commerce para orfecer no productos tangibles, sino servicios!
