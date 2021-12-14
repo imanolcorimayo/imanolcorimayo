@@ -1,16 +1,16 @@
-### Hi there 👋
+### Benvenid@! 👋 Soy Imanol Corimayo - Full Stack Developer
 
-<!--
-**imanolcorimayo/imanolcorimayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actualmente trabajo en un proyecto de e-commerce para orfecer no productos tangibles, sino servicios!
+
+- 🌱 Me encuentro cursando el Bootcamp de Henry, estudio Licenciatura en Física y me próximo lenguaje principal para aprender es Python.
+
+- 👯 Estoy buscando colaborar en cualquier proyecto apasionante y desafiante que se me presente, si estas buscando un colaborador apasionado, contactame.
+
+- 💬 Preguntame sobre JavaScript, React, Redux, NodeJs, Express, Sequalize, PostrgesSQL.
+
+- 📫 Podes contactarme en: imanolcorimayo@gmail.com, https://www.linkedin.com/in/imanolcorimayo/
+
+- 😄 Pronombre: Ima!
