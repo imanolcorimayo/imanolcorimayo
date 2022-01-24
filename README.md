@@ -3,9 +3,9 @@
 <img style="height: 50%" src="./banner.png"/>
 
 
-- 🔭 Actualmente trabajo en un proyecto de e-commerce para orfecer no productos tangibles, sino servicios!
+- 🔭 Actualmente estoy buscando trabajo de forma activa.
 
-- 🌱 Me encuentro cursando el Bootcamp de Henry, estudio Licenciatura en Física y me próximo lenguaje principal para aprender es Python.
+- 🌱 Me encuentro cursando un bootcamp de python en Udemy y estudiando ingles de forma autodidacta.
 
 - 👯 Estoy buscando colaborar en cualquier proyecto apasionante y desafiante que se me presente, si estas buscando un colaborador apasionado, contactame.
 
